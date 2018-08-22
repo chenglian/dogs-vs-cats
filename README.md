@@ -9,7 +9,7 @@ Kaggle Deep Learning competition: Write an algorithm to classify whether images 
 
 - https://www.kaggle.com/c/dogs-vs-cats/data
 
-This exercise is more for a self-learning purpose.
+This exercise is more for a self-learning purpose. The results show that this model has overfitting problem which is to be addressed in further enhancements.
 
 # Software stack
 
